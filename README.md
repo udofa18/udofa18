@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, Welcome 👋
 
+I'm a Front-end Engineer in view, Content Creator,  Community Manager and a Blockchain Enthusiast experienced working for major blocchain projects in the space. 
 <!--
 **udofa18/udofa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
