@@ -1,17 +1,28 @@
-### Hi there, Welcome 👋
+### Hi there, Thanks for Dropping in 👋
 
-I'm a Front-end Engineer in view, Content Creator,  Community Manager and a Blockchain Enthusiast experienced working for major blocchain projects in the space. 
-<!--
-**udofa18/udofa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm a Front-end Engineer in view, Content Creator,  Community Manager and a Blockchain Enthusiast experienced working for major blocchain projects in the space.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+
+  Daniel Udofa 
+  <br></h1>
+  
+
+
+
+> GitHub [@udofa18](https://github.com/udofa18) &nbsp;&middot;&nbsp;
+> Twitter [@udofa18](https://twitter.com/udofa18) &nbsp;&middot;&nbsp;
+> Linkedin [DanielUdofa](https://www.linkedin.com/in/daniel-udofa-865778149)
+
+- 🔭 I’m currently working on Building Myself
+- 🌱 I’m currently learning Frontend Development
+- 👯 I’m looking to collaborate on HTMl, CSS and JavaScript
+- 🤔 I’m looking for help with resources to learn from
+- 🔭 Looking for Internship Programs 
+- 💬 Ask me about Community Management and Blockchain
+
+
+
+
+
