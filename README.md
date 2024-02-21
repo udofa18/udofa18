@@ -1,6 +1,6 @@
 ### Hi there, Thanks for Dropping in 👋
 
-<p align="center">I'm a Front-end Engineer in view, Content Creator,  Community Manager and a Blockchain Enthusiast experienced working for major blocchain projects in the space.</p>
+<p align="center">I'm a Front-end Engineer, Developer Advocate/Relations ,  Community Manager/ Advocate, and Blockchain Enthusiast experienced working on awesome blockchain projects in the space.</p>
 
 
 <h1 align="center">
