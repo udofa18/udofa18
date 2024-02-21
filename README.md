@@ -16,11 +16,11 @@
 > Linkedin [DanielUdofa](https://www.linkedin.com/in/daniel-udofa-865778149)
 
 - 🔭 I’m currently working on Building Myself
-- 🌱 I’m currently learning Frontend Development
-- 👯 I’m looking to collaborate on HTMl, CSS and JavaScript
+- 🌱 I’m a Frontend Developer
+- 👯 I’m looking to collaborate on React.js and Vue.js
 - 🤔 I’m looking for help with resources to learn from
-- 🔭 Looking for Internship Programs 
-- 💬 Ask me about Community Management and Blockchain
+- 🔭 Looking for new connections
+- 💬 Ask me about Community Management and the Blockchain
 
 
 
